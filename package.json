@@ -2,10 +2,12 @@
   "name": "nba",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/AshokSharma85/nba.git",
+  "homepage": "https://github.com/AshokSharma85/nba/",
   "dependencies": {
+    "moment": "^2.24.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
+    "react-moment": "^0.9.2",
     "react-scripts": "3.0.1"
   },
   "scripts": {
